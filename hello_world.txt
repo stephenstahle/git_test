@@ -1,3 +1,1 @@
-hello, this a test so that we can see if git is working properly.
-
-Now we are chaging this to see if we can see changes on the website. 
+Now we are re writing the whole thing. Test
